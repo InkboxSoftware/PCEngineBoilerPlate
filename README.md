@@ -1,5 +1,5 @@
-# PCEngineBoilerPlate
-Assembly boiler plate for the PC Engine / TurboGrafx-16 console targeting CL65
+# PC Engine Boiler Plate
+Assembly boiler plate for the PC Engine / TurboGrafx-16 console targeting CL65. Written in HuC6280 assembly (HuC6280 CPU based on the 65C02). 
 
 PC Engine documentation and other resources:
 + [PC Engine Hardware Breakdown](https://www.copetti.org/writings/consoles/pc-engine)
